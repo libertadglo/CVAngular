@@ -1,0 +1,21 @@
+.list-group-item{
+    --bs-list-group-bg:transparent;
+    }
+    .list-group{
+        --bs-border-color: transparent;
+    }
+    /* hasta aca va la barra*/
+    /* parte de redes, iconos*/
+        .fa-brands.fa-square-facebook.fa-2x:hover{
+            --bs-text-opacity: 1;
+            color: rgb(3, 3, 122) !important;
+        }
+        .fa-brands.fa-instagram.fa-2x:hover{
+            --bs-text-opacity: 1;
+            color:rgb(228, 17, 17) !important;
+        }
+        .fa-solid.fa-user-lock.fa-2x:hover{
+            --bs-text-opacity: 1;
+            color:rgb(2, 152, 35) !important;
+        }
+        /* fin parte de redes, iconos*/

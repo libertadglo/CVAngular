@@ -1,0 +1,17 @@
+section.banercito{
+    background-image:url(/Img/Baner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;      
+    background-size: cover;
+    position: relative;
+    left: 0;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-size:cover;
+    -msn-blackground-size:cover;
+    -moz-background-size: cover;
+    -webbkit-background-size:cover;
+   
+ }
