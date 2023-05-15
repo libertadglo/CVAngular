@@ -14,6 +14,7 @@ import { MicuidadComponent } from './micuidad/micuidad.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { ErrorComponent } from './error/error.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -27,6 +28,7 @@ import { ErrorComponent } from './error/error.component';
     MicuidadComponent,
     DashboardComponent,
     ErrorComponent,
+    
 
   ],
   imports: [

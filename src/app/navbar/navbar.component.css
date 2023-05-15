@@ -3,3 +3,9 @@
 .navbar{
     background: rgb(6, 1, 52) !important;
 }
+.list-group-item{
+    --bs-list-group-bg:transparent;
+    }
+    .list-group{
+        --bs-border-color: transparent;
+    }
